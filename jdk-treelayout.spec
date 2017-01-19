@@ -4,7 +4,7 @@
 #
 Name     : jdk-treelayout
 Version  : 1.0.3
-Release  : 1
+Release  : 2
 URL      : https://github.com/abego/treelayout/archive/v1.0.3.tar.gz
 Source0  : https://github.com/abego/treelayout/archive/v1.0.3.tar.gz
 Summary  : No detailed summary available
@@ -85,14 +85,13 @@ BuildRequires : jdk-plexus-utils
 BuildRequires : jdk-plexus-velocity
 BuildRequires : jdk-sisu
 BuildRequires : jdk-slf4j
-BuildRequires : jdk-snappy
+BuildRequires : jdk-snappy-java
 BuildRequires : jdk-sonatype-oss-parent
 BuildRequires : jdk-surefire
 BuildRequires : jdk-velocity
 BuildRequires : jdk-wagon
 BuildRequires : jdk-xbean
 BuildRequires : jdk-xmlunit
-BuildRequires : jdk-xz
 BuildRequires : lxml
 BuildRequires : openjdk-dev
 BuildRequires : python3
